@@ -1,2 +1,2 @@
 # atividadepw
-Atividade de PW feita em grupo.
+Atividade de PW realizada em grupo.
